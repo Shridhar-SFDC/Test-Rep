@@ -1,0 +1,11 @@
+===================Shridhar================
+detail=https://login.salesforce.com/
+user=shridharashok@gmail.com
+pass=password-10
+
+
+//Login to Shridhar Salesforce
+
+Username=//input[@name='username']
+Password=//input[@ type='password']
+Login=//input[@ type='submit']

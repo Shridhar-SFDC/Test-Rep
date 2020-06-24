@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test Suite"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+  <properties />
+  
+  
+            <testcase name="firstTestCase" time="0.000" classname="packTwo.demoTwo" />
+                <testcase name="secondTestCase" time="0.000" classname="packTwo.demoTwo" />
+      
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testing Google Apps]">
+  <test name="Regression(failed)" preserve-order="true">
+    <classes>
+      <class name="Learning.tutorial1">
+        <methods>
+          <include name="purchaseorder" invocation-numbers="0 1"/>
+          <include name="setup"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- Learning.tutorial1 -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Testing Google Apps] -->

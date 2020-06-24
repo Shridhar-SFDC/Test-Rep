@@ -1,0 +1,7 @@
+Browser=chrome
+
+AVE Userprofiles Testing(Sandbox Login)
+
+URL_SD=https://test.salesforce.com/
+UserName_SD=sfadmin+ave@glic-tech.com.partial
+Password_SD=AVE19scf!
